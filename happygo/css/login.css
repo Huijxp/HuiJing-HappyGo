@@ -1,0 +1,270 @@
+div.login{
+  width:100%;
+  height:100%;/*1020*/
+  overflow: hidden;
+}
+div.login_top{
+  width:1000px;
+  height:150px;
+  margin:0 auto;
+  /* background: pink; */
+}
+div.login_top_l{
+  float:left;
+  line-height: 200px;
+}
+div.login_top_r{
+  float:right;
+  line-height: 170px;
+}
+div.login_main{
+  width:980px;
+  height:530px;
+  margin: 0 auto;
+  position: relative;
+}
+div.login_main_img{
+  width:560px;
+  height:360px;
+}
+div.login_main_list{
+  width:367px;
+  height:600px;
+  position: absolute;
+  right:10px;
+  top:30px;
+}
+div.login_regist{
+  width:350px;
+  height:60px;
+  margin: 0 auto;
+}
+div.login_regist_l{
+  float: left;
+  margin-left: 5px;
+}
+div.login_regist_r{
+  float: right;
+  margin-top: 10px;
+}
+div.login_regist_r>span{
+  color:#ccc;
+  font-size:14px;
+}
+div.login_regist_r>span>a{
+  color:brown;
+  text-decoration: none;
+  font-size: 12px; 
+  margin-right: 5px;
+}
+div.form{
+  overflow: hidden;
+  position: relative;
+}
+div.input_1{
+  position: relative;
+  /* margin-bottom: 30px; */
+  margin-left: 10px;
+}
+.yh_type{
+  display: block;
+  height:30px;
+  line-height: 30px;
+}
+input.phone{
+  color: #333333;
+  border: 1px solid #c8c8c8;
+  height: 25px;
+  line-height: 25px;
+  padding-left: 6px;
+  width: 341px;
+  font-size: 12px;
+  padding: 7px 0 7px 5px;
+}
+div.input_2{
+  position: relative;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  overflow: hidden;
+}
+
+input.yanzheng{
+  color: #333333;
+  border: 1px solid #c8c8c8;
+  height: 25px;
+  line-height: 25px;
+  padding-left: 6px;
+  width: 180px;
+  font-size: 12px;
+  padding: 7px 0 7px 5px;
+}
+div.input_2_l{
+  float:left;
+}
+div.input_2_r{
+  float: right;
+  border:1px solid #c8c8c8;
+  margin-right:10px;
+  width:140px;
+  height:25px;
+  padding: 7px 0 7px 5px;
+  text-align: center;
+  background: #c8c8c8;
+}
+div.input_2_r>a{
+  font-size: 14px;
+  text-decoration: none;
+  color:#333333;
+  font-weight: bold;
+}
+div.input_3{
+  position: relative;
+  margin-left: 10px;
+  overflow: hidden;
+}
+.pw_type{
+  display: block;
+  height:30px;
+  line-height: 30px;
+}
+input.pwd{
+  color: #333333;
+  border: 1px solid #c8c8c8;
+  height: 25px;
+  line-height: 25px;
+  padding-left: 6px;
+  width: 341px;
+  font-size: 12px;
+  padding: 7px 0 7px 5px;
+}
+div.input_4{
+  position: relative;
+  margin-left: 10px;
+  overflow: hidden;
+}
+.ph_type{
+  display: block;
+  height:30px;
+  line-height: 30px;
+}
+input.pwd_again{
+  color: #333333;
+  border: 1px solid #c8c8c8;
+  height: 25px;
+  line-height: 25px;
+  padding-left: 6px;
+  width: 341px;
+  font-size: 12px;
+  padding: 7px 0 7px 5px;
+}
+div.input_5{
+  position: relative;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  overflow: hidden;
+}
+input.yanzheng{
+  color: #333333;
+  border: 1px solid #c8c8c8;
+  height: 25px;
+  line-height: 25px;
+  padding-left: 6px;
+  width: 180px;
+  font-size: 12px;
+  padding: 7px 0 7px 5px;
+}
+div.input_5_l{
+  float:left;
+}
+div.input_5_r{
+  float: right;
+  border:1px solid #c8c8c8;
+  margin-right:10px;
+  width:140px;
+  height:25px;
+  padding: 7px 0 7px 5px;
+  text-align: center;
+  background: #c8c8c8;
+}
+div.input_5_r>a{
+  font-size: 14px;
+  text-decoration: none;
+  color:#333333;
+  font-weight: bold;
+}
+div.input_6{
+  position: relative;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  overflow: hidden;
+}
+div.LiJiRegist{
+  color: #333333;
+  height: 25px;
+  line-height: 25px;
+  padding-left: 6px;
+  width: 341px;
+  font-size: 12px;
+  padding: 7px 0 7px 5px;
+  text-align: center;
+  background:#94193f;
+}
+div.LiJiRegist>a{
+  font-size: 14px;
+  font-family: '宋体';
+  font-weight: bold;
+  text-decoration: none;
+  color:#fff;
+}
+div.tiaokuan{
+  width:341px;
+  height:100%;
+  margin-left: 30px;
+}
+div.tiaokuan>a{
+  text-decoration: none;
+  font-size: 14px;
+  color:#c8c8c8;
+}
+input.che{
+  margin-top: 2px;
+}
+div.login_bottom{
+  width:100%;
+  height:100%;
+  position: relative;
+  overflow: hidden;
+}
+div.login_bottom_top{
+  width: 980px;
+  height:75px;
+  margin: 0 auto;
+  /* background: palevioletred; */
+}
+p.login_bottom_top_p1{
+  padding-top: 10px;
+  text-align: center;
+  font-family: "宋体";
+  color: #7e7e7e;
+  line-height: 25px;
+  font-size: 12px;
+}
+p.login_bottom_top_p2{
+  padding-top: 10px;
+  text-align: center;
+  font-family: "宋体";
+  color: #7e7e7e;
+  line-height: 25px;
+  font-size: 12px;
+}
+div.login_bottom_bottom{
+  width: 650px;
+  height:75px;
+  margin: 40px auto;
+}
+a.img_l{
+  float:left;
+}
+a.img_r{
+  float:right;
+}

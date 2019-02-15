@@ -1,0 +1,133 @@
+.footer{
+  background:#fff;
+  width: 1903px;
+  height: 626px;
+  margin:0 auto;
+}
+/*图片 上市股票*/
+.footer0{
+  border-bottom: 1px solid #ccc;
+}
+.footer0.w1200{
+  width:1200px;
+  margin:0 auto;
+}
+.footer_help{
+  padding-top:40px;
+}
+.footer_help.w1200.Clearfix{
+  width:1200px;
+  height: 192px;
+  /* background: #f00; */
+  margin: 0 auto;
+}
+div.footer_helpl{
+  width: 900px;
+  /* background:pink; */
+  float: left;
+}
+div.footer_helpr{
+  width: 300px;
+  /* background: palegreen; */
+  float: left;
+}
+div.footer_help.footer_help.w1200.Clearfix::after{
+  clear: both;
+  display: block;
+}
+.help_DL{
+  float: left;
+  padding: 0 65px 0 50px;
+}
+.help_DL h5{
+  font-size: 14px;
+  font-weight: normal;
+  height: 31px;
+  color: #666;
+  
+}
+.help_DL dd a{
+  font-size: 12px;
+  height: 22px;
+  color:#666;
+  line-height: 22px;
+  text-decoration: none;
+}
+.footer_helpr ul li{
+  list-style: none;
+  float: left;
+  padding: 0 15px;
+  text-align: center;
+}
+.footer_helpr ul li h2{
+  font-size: 14px;
+  color:#000;
+  height: 31px;
+}
+.footer_nav{
+  border-bottom: 4px solid #a90202;
+  overflow: hidden;
+  margin-top: 45px;
+}
+div.w720.Clearfix{
+  width: 720px;
+  height:36px;
+  margin: 0 auto;
+  text-align: center;
+  /* background:purple; */
+}
+.footer_nav ul{
+  margin-left: 50px;
+}
+.footer_nav ul li{
+  display: inline-block;
+  height: 35px;
+  line-height: 35px;
+}
+.footer_nav li{
+  list-style: none;
+  float: left;
+  margin-left: 10px;
+}
+.footer_nav ul li a{
+  margin: 0 20px;
+  font-size: 12px;
+  font-family: "宋体";
+  color:#666;
+  text-align: center;
+  text-decoration: none;
+}
+.footer_nav ul b{
+  color:#ddd;
+}
+.footer_bottom{
+  width:1903px;
+  height:183px;
+  background:#f3f3f3;
+}
+.footer_bottom p{
+  padding-top: 10px;
+  text-align: center;
+  font-family: "宋体";
+  color: #7e7e7e;
+  line-height: 25px;
+  font-size: 12px;
+}
+.footer_bottom.w1200{
+  width:1200px;
+  height:64px;
+  /* background:peru; */
+  text-align: center;
+  margin: 0 auto;
+}
+span.font_arial{
+  color:#666;
+  font-family: Arial;
+}
+.footer_bottom a{
+  text-decoration: none;
+  color:#666;
+}
+p.footer_p{
+  margin: 20px auto;
+}
